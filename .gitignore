@@ -1,0 +1,11 @@
+# Datasets and Models
+data/
+models/
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.env
